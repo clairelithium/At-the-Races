@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\r\n\ Projectile\ is\ a\ main\ class\ consisting\ of\ the\ red\ and\ blue\ projectile\ collectively.\r\n\ \r\n\ @author\ Claire\ Li\ \r\n\ @version\ 05/03/2024\r\n
+comment1.params=
+comment1.target=Projectile()
+comment1.text=\r\n\ Constructor\ default\ -\ Builds\ the\ ball\ object\ to\ start\ at\ a\ random\ rotation\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Instructions
+comment0.text=\r\n\ Instructions\ puts\ out\ on\ the\ screen\ instructions\ to\ say\ Game\ Over.\r\n\ \r\n\ @author\ \:\ Claire\ Li\r\n\ @date\ \:\ 05/03/2024\r\n
+comment1.params=
+comment1.target=Instructions()
+comment1.text=\r\n\ Instructions\ -\ Constructor\ to\ build\ the\ instructions\ object\r\n\ Notice\ -\ It\ does\ not\ have\ a\ return\ typelike\ other\ methods\r\n\ This\ will\ be\ enacted\ one\ time\ when\ each\ new\ object\ of\ the\ class\ is\r\n\ built.\r\n
+comment2.params=Numbers
+comment2.target=Instructions(int)
+comment2.text=\r\n\ Instructions(int\ Numbers)\ -\ Constructor\ to\ detect\ the\ "Numbers"\ from\ other\ classes,\r\n\ to\ organize\ the\ texts\ when\ the\ game\ ends.\r\n
+numComments=3

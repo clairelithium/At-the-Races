@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ A\ simple\ counter\ with\ graphical\ representation\ as\ an\ actor\ on\ the\ screen\r\n\ \r\n\ @author\ (Claire\ Li)\ \r\n\ @date\ 05/03/2024\r\n
+comment1.params=
+comment1.target=Counter()
+comment1.text=\r\n\ Counter\ Constructor\ -\ initialize\ beginning\ variables\ and\ the\ counter\ \r\n\ image\ to\ display\ zero\ \ \ \ \ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Lettuce\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ updateImage()
+comment3.text=\r\n\ updateImage\ -\ updates\ the\ image\ on\ the\ screen\ to\ show\ the\ current\ counter\ value\r\n
+comment4.params=score
+comment4.target=void\ add(int)
+comment4.text=\r\n\ Add\ -\ adds\ a\ new\ score\ value\ to\ the\ current\ counter\ value\r\n
+numComments=5

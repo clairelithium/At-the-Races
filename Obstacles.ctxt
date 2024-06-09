@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Obstacles
+comment0.text=\r\n\ Obstacles\ is\ an\ actor\ class\ consisting\ of\ the\ barrel,\ house,\ and\ tree\ actor;\ when\ touched,\r\n\ different\ obstacles\ result\ to\ different\ reactions\ of\ the\ participants.\r\n\ \r\n\ @author\ Claire\ Li\ \r\n\ @version\ 05/03/2024\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Obstacles\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

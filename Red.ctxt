@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Red
+comment0.text=\r\n\ Red\ is\ a\ Projectile\ class\ that\ acts\ similarly\ to\ a\ bullet,\ where\ the\ Participants\ touch\r\n\ and\ then\ is\ resetted\ it\ to\ its\ original\ position\ and\ location;\r\n\ When\ clicked,\ the\ red\ projectile\ moves.\r\n\ \r\n\ @author\ Claire\ Li\ \r\n\ @version\ 05/03/2024\r\n
+comment1.params=
+comment1.target=Red()
+comment1.text=\r\n\ Constructor\ default\ -\ Builds\ the\ ball\ object\ to\ start\ at\ a\ random\ rotation\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ mouseClick()
+comment3.text=\r\n\ mouseClick\ -\ when\ mouse\ is\ clicked,\ it\ is\ detected\ and\ shown\ as\ "true"\r\n
+comment4.params=
+comment4.target=void\ changeTransparency()
+comment4.text=\r\n\ changeTransparency\ -\ change\ the\ transparency\ and\ continually\ make\ it\r\n\ more\ opaque\ until\ it\ disappears\r\n
+numComments=5

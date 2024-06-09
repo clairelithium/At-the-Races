@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Seal
+comment0.text=\r\n\ Seal\ is\ an\ actor\ that\ is\ part\ of\ the\ Participants\ class,\ where\ acts\ during\ the\ game\ and\ runs\ across\ the\ track.\r\n\ \r\n\ @author\ Claire\ Li\ \r\n\ @version\ 05/03/2024\r\n
+comment1.params=
+comment1.target=Seal()
+comment1.text=\r\n\ Seal\ -\ Constructor\ that\ detects\ the\ original\ rotation\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Bear\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ endGame()
+comment3.text=\r\n\ endGame\ -\ when\ the\ finish\ line\ is\ touched\ by\ its\ center,\ then\ \r\n\ the\ game\ ends,\ has\ an\ audio\ playing,\ and\ provides\ a\ text\ announcing\r\n\ the\ end\ of\ the\ game\r\n
+comment4.params=
+comment4.target=void\ checkTouching()
+comment4.text=\r\n\ checkTouching\ -\ the\ actor\ detects\ the\ touching\ and\ canSee\ method\ of\ the\ Projectile\ and\ Obstacles\ class\r\n
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Tree
+comment0.text=\r\n\ Tree\ is\ an\ actor\ in\ the\ Obstacles\ class,\ which\ acts\ as\ a\ barrier\ for\ the\ outer\ edge\ of\ the\ World.\ \r\n\ \r\n\ @author\ Claire\ Li\ \r\n\ @version\ 05/03/2024\r\n
+comment1.params=
+comment1.target=Tree()
+comment1.text=\r\n\ Tree\ -\ Constructor\ that\ scales\ its\ width\ and\ height\ to\ double\ the\ number.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Tree\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3
